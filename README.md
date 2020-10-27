@@ -1,0 +1,2 @@
+# hellogo
+GOのお勉強
